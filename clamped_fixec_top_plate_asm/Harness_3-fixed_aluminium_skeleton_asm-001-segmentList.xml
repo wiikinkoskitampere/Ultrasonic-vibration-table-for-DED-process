@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint1@plug-5pindin-1@Harness_3-fixed_aluminium_skeleton_asm-001:CPoint1@plug-5pindin-2@Harness_3-fixed_aluminium_skeleton_asm-001'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.447208'/>
+            <AdditionalLength value='0.467208'/>
+            <FromLocation value='-0.000000,-0.201617,-0.000000'/>
+            <ToLocation value='-0.335572,-0.365315,-0.009117'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

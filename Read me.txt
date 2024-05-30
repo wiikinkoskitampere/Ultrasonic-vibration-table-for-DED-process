@@ -1,0 +1,3 @@
+
+The correct file for the whole assemblu is called
+fixed_aluminium_skeleton_asm.sldasm

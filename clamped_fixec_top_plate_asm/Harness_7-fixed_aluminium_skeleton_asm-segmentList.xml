@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint1@plug-sma-1@Harness_7-fixed_aluminium_skeleton_asm:CPoint1@plug-sma-3@Harness_7-fixed_aluminium_skeleton_asm'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.658334'/>
+            <AdditionalLength value='0.678334'/>
+            <FromLocation value='-0.012500,-0.188786,-0.021950'/>
+            <ToLocation value='-0.578214,-0.377970,-0.055300'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.006500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='2'>
+        <properties>
+            <Name value='CPoint1@plug-sma-2@Harness_7-fixed_aluminium_skeleton_asm:CPoint1@plug-sma-4@Harness_7-fixed_aluminium_skeleton_asm'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.682908'/>
+            <AdditionalLength value='0.702908'/>
+            <FromLocation value='-0.577714,-0.377970,0.020700'/>
+            <ToLocation value='0.012500,-0.188786,0.021950'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.006500'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
